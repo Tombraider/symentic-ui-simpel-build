@@ -1,0 +1,10 @@
+{
+  "name": "simpel-cms",
+  "version": "1.0.0",
+  "description": "A cms made for google to work with amp pages and fast node react and semantic ui build",
+  "main": "index.js",
+  "repository": "https://github.io/Tombraider/simpelcms",
+  "author": "Tombraider",
+  "license": "MIT",
+  "private": null
+}
